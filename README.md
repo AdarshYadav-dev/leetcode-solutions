@@ -9,24 +9,6 @@ Each solution includes:
 
 ---
 
-##  Folder Structure
-
-leetcode-solutions/
-├── Day1/
-│ ├── Q1.js
-│ ├── Q2.js
-│
-├── Day2/
-│ ├── Q1.js
-│ └── Q2.js
-│
-├── Day3/
-│ └── ...
-
-
-
----
-
 ##  How I Solve Problems
 Each solution contains:
 1. **Understanding the problem**
