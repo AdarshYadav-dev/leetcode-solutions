@@ -1,4 +1,4 @@
-# LeetCode Solutions in JavaScript
+# LeetCode Solutions in JavaScript.
 
 This repository contains my **daily LeetCode problem solutions**, written in **JavaScript**, organized day-wise.  
 Each solution includes:
