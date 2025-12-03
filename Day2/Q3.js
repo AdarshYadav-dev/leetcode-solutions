@@ -19,5 +19,5 @@ Array.prototype.last = function(){
     return this[this.length-1];
 }
 
-const arr = [1,32,54,];
+const arr = [];
 console.log(arr.last())
