@@ -21,8 +21,8 @@ var addBinary = function(a, b) {
         if (i >= 0) sum += a[i] - '0';
         if (j >= 0) sum += b[j] - '0';
 
-        result = (sum % 2) + result;  // add current bit
-        carry = Math.floor(sum / 2); // update carry
+        result = (sum % 2) + result;  
+        carry = Math.floor(sum / 2); 
 
         i--;
         j--;
