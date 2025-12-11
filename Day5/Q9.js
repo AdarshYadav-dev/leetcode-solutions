@@ -34,4 +34,4 @@ var findContentChildren = function(g, s) {
 let g = [1, 2, 3];
 let s = [1, 1];
 
-console.log(findContentChildren(g, s));  // <-- function call added
+console.log(findContentChildren(g, s)); 
