@@ -1,2 +1,2 @@
-## Q13 :- 500. Keyboard Row
-## Q14 :- 566. Reshape the Matrix
+## Q13 :- 485. Max Consecutive Ones
+## Q14 :- 496. Next Greater Element I
