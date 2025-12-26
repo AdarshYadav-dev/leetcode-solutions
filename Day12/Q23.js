@@ -14,11 +14,8 @@
 // Output: [2,3]
 
 
-/**
- * @param {number[]} nums
- * @return {number[]}
- */
-var findErrorNums = function(nums) {
+
+let findErrorNums = function(nums) {
     let map = {};
     let duplicate = -1;
     let missing = -1;
