@@ -13,11 +13,7 @@
 // Explanation: 9 exists in nums and its index is 4
 
 
-/**
- * @param {number[]} nums
- * @param {number} target
- * @return {number}
- */
+
 let search = function(nums, target) {
     let left = 0;
     let right = nums.length - 1;
